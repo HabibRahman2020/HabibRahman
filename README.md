@@ -1,9 +1,12 @@
 <h1>Hi, I'm Mohammod Habibur Rahman! </h1>
 
-<h2>📜 Certificationss:</h2>
-  - [Google Cloud Certified - Professional Cloud Security Engineer](https://imgur.com/IjmraQh)
-  - [CompTIA Security+](https://imgur.com/undefined)
-  - [Terraform Associate 003](https://imgur.com/CXWqFev)
+<h2>📜 Certifications:</h2>
+
+- [Google Cloud Certified - Professional Cloud Security Engineer](https://imgur.com/IjmraQh)
+
+- [CompTIA Security+](https://imgur.com/undefined) 
+
+- [Terraform Associate 003](https://imgur.com/CXWqFev)
 
 
 <h2>📺 Cybersecurity </h2>
