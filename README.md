@@ -4,7 +4,7 @@
 
 - [Google Cloud Certified - Professional Cloud Security Engineer](https://imgur.com/IjmraQh)
 
-- [CompTIA Security+](https://imgur.com/undefined) 
+- [CompTIA Security+](https://imgur.com/Ht6I8Gb) 
 
 - [Terraform Associate 003](https://imgur.com/CXWqFev)
 
