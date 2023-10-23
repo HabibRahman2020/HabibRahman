@@ -1,14 +1,20 @@
 <h1>Hi, I'm Mohammod Habibur Rahman! </h1>
 
+<h2>📜 Certificationss:</h2>
+  - [Google Cloud Certified - Professional Cloud Security Engineer](https://imgur.com/IjmraQh)
+  - [CompTIA Security+](https://imgur.com/undefined)
+  - [Terraform Associate 003](https://imgur.com/CXWqFev)
+
+
 <h2>📺 Cybersecurity </h2>
 
-- [Setup an Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honeypot for LIVE CYBER ATTACKS! ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Setup an Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honeypot for LIVE CYBER ATTACKS! ](https://github.com/HabibRahman2020/Azure-Sentinel-SIEM-)
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>helpful-scrips </b>
+  - [Helpful Scrips](https://github.com/HabibRahman2020/helpful-scrips)
 
 
 <h2> 🤳 Connect with me:</h2>
